@@ -1,6 +1,6 @@
 # Rapidly-exploring-random-tree
 
-Running the code
+Running the code in Linux
 
 1. Download the github repo and extract the folder from the zip file
 2. Provided that python is installed on your system, open the terminal and run the following commands after you change your directory to the folder where the downloaded files are present. The folder you want to be in will be named Rapidly-exploring-random-tree-main. Make sure you have pip installed on your system
