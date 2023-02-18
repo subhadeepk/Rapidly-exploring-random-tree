@@ -147,7 +147,7 @@ if __name__ == '__main__':
         if dist <= destination_radius:  # Stops finding if a node falls inside the destination radius
             break
 
-    # __________________Draws the optimum path in blue_____________________________
+    # __________________Draws the feasable path in blue_____________________________
     present_node = newchild
     while present_node.parent:
         print(present_node.location)
